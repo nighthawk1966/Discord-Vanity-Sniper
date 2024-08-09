@@ -2,7 +2,7 @@
 Bu kod olduğu gibi hızlı çalışmaktadır 25-30ms alabilirsiniz ne yaptığınızı biliyorsanız 25-30ms alırsınız.
 
 ## Daha hızlısı?
-Daha hızlı bir kod istiyorsanız **discord : @nighthawkofficial**
+15 starda daha hızlı çalışan bir kod paylaşılacaktır ancak discord üzerinden çok daha hızlılarını alabilirsiniz.  **discord : @nighthawkofficial**
 
 ## Bilgilendirme
 Kod rate limit yemez kanalınıza log atar webhook kullanmaktadır. Kod 36 satırdan oluşur gayet hızlıdır.
