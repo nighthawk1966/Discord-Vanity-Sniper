@@ -31,7 +31,7 @@ const connect = () => {
   socket.on("data", (data) => {
     const jsonObject = extractJsonFromString(data.toString()).find(o => o.code || o.message);
     if (jsonObject && ws.readyState === WebSocket.OPEN) 
-      ws.send(JSON.stringify({ content: `*Code: \`${vanity}\`\nUses: \`${JSON.stringify(jsonObject)}\`*` }));
+      ws.send(JSON.stringify({ content: `*Nighthawk Vanity Code! \`${vanity}\`\nUses: \`${JSON.stringify(jsonObject)}\`*` }));
   });
 };
 
